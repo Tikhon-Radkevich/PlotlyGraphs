@@ -11,7 +11,5 @@ HTML Tags You Can Use on GitHub
   </ol>
 </details>
 
-## `<kbd>` and `<samp>`
 
-Sample or quoted output from a computer program using `<samp>`: <samp>sample output</samp>.
 
