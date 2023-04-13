@@ -1,23 +1,13 @@
 # PlotlyGraphs
 
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
-
-      <div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+<details open>
+  <summary>This is the summary</summary>
+  <p>And here are the details:</p>
+  <ol>
+    <li>Cash on hand: $500.00</li>
+    <li>Current invoice: $75.30</li>
+    <li>Due date: 5/6/19</li>
+  </ol>
+</details>
 
 <iframe width="100%" height="500" src="https://github.com/Tikhon-Radkevich/PlotlyGraphs/edit/main/GoogleColab/SimpleGraph.html"></iframe>
