@@ -12,4 +12,4 @@ HTML Tags You Can Use on GitHub
 </details>
 
 
-<iframe width="100%" height="500" src="https://github.com/Tikhon-Radkevich/PlotlyGraphs/edit/main/GoogleColab/SimpleGraph.html"></iframe>
+<iframe width="100%" height="500" src="https://github.com/Tikhon-Radkevich/PlotlyGraphs/GoogleColab/SimpleGraph.html"></iframe>
