@@ -36,48 +36,4 @@ Subscripts<sub>sub</sub> and superscripts<sup>sup</sup> with `<sub>` and `<sup>`
 
 ## Footnotes
 
-You can use `<sup>` to create linked footnotes.<sup id="backToMyFootnote"><a href="#myFootnote">1</a></sup>
-
-## `<ins>` and `<del>`
-
-Inserted text with `<ins>`: <ins>inserted</ins> and deleted text with `<del>`: <del>deleted</del>. These can both have the `cite` attribute.
-
-## `<var>`
-
-Variables with `<var>`: <var>myVariable</var>.
-
-## `<q>`
-
-Inline quotes with `<q>` get curly quotation marks around them: <q>inline quote</q>. You can also use the `cite` attribute on them. You can use `cite` on a `<blockquote>` too, if you enter the `<blockquote>` manually.
-
-## Definition lists (`<dl>`, `<dt>` and `<dd>`)
-
-<dl>
-  <dt>Publisher</dt>
-  <dd>CNN and others</dd>
-  <dt>Community admin</dt>
-  <dd>Admins of Climate Feedback, Public Editors, etc</dd>
-  <dt>Hypothesis admin</dt>
-  <dt>Hypothesis developer</dt>
-</dl>
-
-## `<ruby>`, `<rt>` and `<rp>`
-
-`<ruby>`, `<rt>` and `<rp>` can be used for [showing pronunciation of East Asian characters](http://html5doctor.com/ruby-rt-rp-element/). Example:
-
-<ruby>
-  漢 <rp>(</rp><rt>Kan</rt><rp>)</rp>
-  字 <rp>(</rp><rt>ji</rt><rp>)</rp>
-</ruby>
-
-## `<div>`
-  
-`<div>` is also allowed, along with the `itemscope` and `itemtype` attributes for [defining microdata](http://html5doctor.com/microdata/):
-
-<div itemscope itemtype ="http://schema.org/Movie">
-  <h6 itemprop="name">Avatar</h6>
-  <span>Director: <span itemprop="director">James Cameron</span> (born August 16, 1954)</span>
-  <span itemprop="genre">Science fiction</span>
-  <a href="https://youtu.be/0AY1XIkX7bY" itemprop="trailer">Trailer</a>
-</div>
 
