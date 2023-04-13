@@ -10,6 +10,3 @@ HTML Tags You Can Use on GitHub
     <li>Due date: 5/6/19</li>
   </ol>
 </details>
-
-
-<iframe width="100%" height="500" src="https://github.com/Tikhon-Radkevich/PlotlyGraphs/GoogleColab/SimpleGraph.html"></iframe>
