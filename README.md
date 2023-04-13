@@ -81,30 +81,3 @@ Inline quotes with `<q>` get curly quotation marks around them: <q>inline quote<
   <a href="https://youtu.be/0AY1XIkX7bY" itemprop="trailer">Trailer</a>
 </div>
 
-## HTML Entities
-
-An `&` gets changed into `&amp;` and `<` and `>` get changed into `&lt;` and `&gt;`.
-You can also enter HTML entities like `&copy;` and `&pound;` directly:
-&copy;, &pound;, &sect;, &para;, &larr;, &rarr;, &hearts;.
-
-## Unicode Characters
-
-You can paste unicode characters directly and they'll be rendered. Here's a few: ⌘ ⌥ ❄ ★ ☂ 🍔 🤷 📚 🎒 ✋ 👓 🐅.
-
-## Emoji
-
-## References
-
-* [GitHub's HTML sanitization code](https://github.com/jch/html-pipeline/blob/master/lib/html/pipeline/sanitization_filter.rb#L44-L106)
-* A [GitHub issue](https://github.com/github/markup/issues/245) about this
-
-## Footnotes
-
-<ol>
-  <li id="myFootnote">
-    <p>
-      Since you need an <code>id</code> attribute on both the footnote and on the footnote reference (to enable the footnote to contain a link <em>back</em> to the reference) I think they both need to be done in raw HTML. I don't think there's any Markdown syntax for this. See the <a href="https://gist.githubusercontent.com/seanh/13a93686bf4c2cb16e658b3cf96807f2/raw/04f35dd73445897827592a155c193976bfb756b8/Testing.markdown">source code of this file</a> for how it's done.
-      <a href="#backToMyFootnote" title="Jump back to footnote 1 in the text.">↩︎</a>    
-    </p>
-  </li>
-</ol>
