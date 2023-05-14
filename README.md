@@ -5,4 +5,4 @@
 
 
 
-<img src="url_of_image" width="100">
+<img src="Original vs Compressed Depth.png" width="100">
