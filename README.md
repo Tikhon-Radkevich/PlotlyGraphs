@@ -12,4 +12,4 @@
 [![alt text](Original vs Compressed Depth.png)]([https://link-url.com/](https://plotly.com/~tikhon.radk/11/?share_key=VWbWa0YiRNyAt8eJR6nK1t))
 
 
-[![My Image](my-image.png)](https://www.example.com)
+[![My Image](Original vs Compressed Depth.png)](https://www.example.com)
