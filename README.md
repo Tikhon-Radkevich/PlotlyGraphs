@@ -6,3 +6,7 @@
 
 
 <img src="Original vs Compressed Depth.png" width="1000">
+
+
+
+[![alt text](Original vs Compressed Depth.png)]([https://link-url.com/](https://plotly.com/~tikhon.radk/11/?share_key=VWbWa0YiRNyAt8eJR6nK1t))
