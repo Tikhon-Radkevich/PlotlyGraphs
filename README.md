@@ -5,3 +5,4 @@
 
 
 
+<img src="url_of_image" width="100">
